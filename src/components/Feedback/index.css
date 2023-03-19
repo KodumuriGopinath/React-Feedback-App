@@ -11,6 +11,7 @@
   background-color: #ffffff;
   padding: 20px;
   border-radius: 10px;
+  width: 600px;
 }
 .total-list-container {
   list-style-type: none;
@@ -31,4 +32,29 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.love-image {
+  width: 70px;
+}
+.love-heading {
+  font-family: robot;
+  font-size: 32px;
+  font-weight: bold;
+  color: #0f172a;
+}
+.description {
+  font-family: roboto;
+  color: #1e293b;
+}
+.second-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  font-family: roboto;
+  text-align: center;
+  color: #0f172a;
 }
